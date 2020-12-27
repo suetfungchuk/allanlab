@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Suet Fung Chuk - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Chuk Lab at Dalian Unviersity of Technology."
 sitemap: false
 permalink: /
 ---
