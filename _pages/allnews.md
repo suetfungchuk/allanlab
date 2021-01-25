@@ -1,12 +1,11 @@
-
+![Image text](../images/xuefengzhu.png)
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Chuk Lab at Leiden University."
 sitemap: false
 permalink: /allnews.html
 ---
-![Image text](../images/xuefengzhu.png)
 # News
 
 {% for article in site.data.news %}
