@@ -1,5 +1,7 @@
 
 <div class="well">
+<h4>PI</h4>
+    <img src="../images/xuefengzhu.png" height="200" width="100" />
 <h4>News</h4>
 
 {% for article in site.data.news limit:9 %}
@@ -7,6 +9,7 @@
 <p>{{ article.headline }}</p>
 {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
-    </div>
+<h4>
+   <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a>
+   </h4>
+</div>
